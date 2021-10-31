@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cordellbonnieux
+- 👀 I’m interested in Programming, Music, Art.
+- 🌱 I’m currently working towards a CS degree at Langara in Vancouver.
+- 💞️ I’m looking to collaborate on Node/React projects, game development using frameworks such as LibGDX.
+- 📫 How to reach me, cordellbonnieux at gmail.
