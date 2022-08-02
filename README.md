@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cordellbonnieux
-- 👀 I’m interested in Programming, Music, Art, Games, Geography, History.
-- 🌱 I am a Computer Science student at Langara College in Vancouver.
+- 👀 I’m interested in programming, music, art, games, geography, animals and history.
+- 🌱 I'm a Computer Science student at Langara College in Vancouver.
 - 📫 How to reach me, cordellbonnieux at gmail.
