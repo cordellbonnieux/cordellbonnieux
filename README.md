@@ -1,1 +1,1 @@
-I enjoy making things and solving problems
+CS Student @ SFU, Web & Game Developer
